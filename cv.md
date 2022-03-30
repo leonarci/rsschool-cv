@@ -12,3 +12,20 @@
 - **Github** [@leonarci](https://github.com/leonarci)
 
 ---
+
+### About Me
+
+I'm highly motivated to become a frontend developer.
+
+I have good communication capabilities and will to to gain new knowledge and skills.
+
+---
+
+### Skills
+
+- HTML
+- CSS
+- JavaScript (basics)
+- Git
+
+---
