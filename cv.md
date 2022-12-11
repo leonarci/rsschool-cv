@@ -6,10 +6,10 @@
 
 ### Contact information:
 
-- **Phone:** +38 098 7749303
-- **Email:** <artem.janicki@gmail.com>
-- **Telegram:** [@leonarci](https://t.me/leonarci)
-- **Github** [@leonarci](https://github.com/leonarci)
+-   **Phone:** +38 098 7749303
+-   **Email:** <artem.janicki@gmail.com>
+-   **Telegram:** [@leonarci](https://t.me/leonarci)
+-   **Github** [@leonarci](https://github.com/leonarci)
 
 ---
 
@@ -23,16 +23,18 @@ I have good communication capabilities and will to to gain new knowledge and ski
 
 ### Skills
 
-- HTML
-- CSS
-- JavaScript (basics)
-- Git
+-   HTML
+-   CSS
+-   JavaScript
+-   Git
+-   TypeScript (basics)
+-   NodeJs (basics)
 
 ---
 
 ### Code Example:
 
-**Highest and Lowest KATA (*7kyu*) from CODEWARS.** In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
+**Highest and Lowest KATA (_7kyu_) from CODEWARS.** In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 
 ```
     function highAndLow(numbers) {
@@ -61,18 +63,18 @@ I have good communication capabilities and will to to gain new knowledge and ski
 
 ### Courses:
 
-- Udemy (The Web Developer Bootcamp by Colt Steele):
-  - HTML
-  - CSS
-  - JavaScript (in progress)
-- RS School JavaScript/Front-end 2022Q1 (in progress)
+-   Udemy (The Web Developer Bootcamp by Colt Steele):
+    -   HTML
+    -   CSS
+    -   JavaScript (in progress)
+-   JS/FE Pre-School 2022Q4 (in progress)
 
 ---
 
 ### Languages:
 
-- Russian (native)
-- Ukrainian (native)
-- Polish (fluent)
-- English (intermediate)
-- French (basic)
+-   Russian (native)
+-   Ukrainian (native)
+-   Polish (fluent)
+-   English (intermediate)
+-   French (basic)
