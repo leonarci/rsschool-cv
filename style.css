@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(35, 35, 35);
+    color: white;
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+header,
+footer {
+    background-color: rgb(46, 43, 43);
+}
+
+
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.nav-list {
+    width: 80%;
+    margin: 0 auto;
+    padding: 2rem 4rem;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-container {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.footer-container p {
+    margin: 0;
+}
+
+.rs-logo {
+    width: 100px;
+    height: auto;
+}
